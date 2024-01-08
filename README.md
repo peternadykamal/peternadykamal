@@ -1,17 +1,12 @@
-<h1 align="center">
-  <a href="https://github.com/peternadykamal">  Hi there
-  <img
-    style="
-      position: absolute;
-      transform: translate(-1em, -0.4em);
-      margin-left: 0.25em;
-    "
-    src="wave.gif"
-    width="55px"
-  />
-  &nbsp; , I am Peter Nady
-  </a>
-</h1>
+<div align="center">
+  <h1 align="center">
+    Hi
+    <img width="35" src="./wave.gif" />, I am
+    <a href="https://github.com/peternadykamal" style="display: contents"
+      >Peter Nady</a
+    >
+  </h1>
+</div>
 
 <div align="center">
   <h1><b>💻 Tech Stack</b></h1>
